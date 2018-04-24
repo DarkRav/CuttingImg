@@ -1,0 +1,8 @@
+D:\ImageCutting\ImageCutting\bin\Debug\ImageCutting.exe.config
+D:\ImageCutting\ImageCutting\bin\Debug\ImageCutting.exe
+D:\ImageCutting\ImageCutting\bin\Debug\ImageCutting.pdb
+D:\ImageCutting\ImageCutting\obj\Debug\ImageCutting.Form1.resources
+D:\ImageCutting\ImageCutting\obj\Debug\ImageCutting.Properties.Resources.resources
+D:\ImageCutting\ImageCutting\obj\Debug\ImageCutting.csproj.GenerateResource.Cache
+D:\ImageCutting\ImageCutting\obj\Debug\ImageCutting.exe
+D:\ImageCutting\ImageCutting\obj\Debug\ImageCutting.pdb
